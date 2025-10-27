@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:26:29 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:fe82d895496584bdf8d877fd65512194"
+Shopify-Complexity-Score: 280
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAwfyzpzOTVn2j01oCRRZ_em26QqYpT-KSKqhIo7RaclOTOAGDxI-gQD9ogLqw5VQqlDlcZg40hQU4QEL5VsYgl18JWPIRmp32B9kDMzeIeGQhLrSti3737k4ic2SRt74GxPJgCzUfbTVvqSK5t4mfm9I2INIxz73_uUNq6-j_2pZMjN3b_m-iD6J-tKWB6IQXGPh-fGIv5b85usoOQ9-AJfKUPwc5rDnwHeaM8ERnTk-LAgOm7MOC5glCTTOXvGU5kyrp2Q:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Alt-Svc: h3=":443"; ma=86400
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=67, db;dur=10, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="phc8", requestID;desc="6e2b4ba0-5d51-4b85-a3b0-255f3e78cc25-1761503188", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_NwQOdNnpSOqStL60Gvsr6g"
+Server-Timing: cfRequestDuration;dur=241.000175
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6e2b4ba0-5d51-4b85-a3b0-255f3e78cc25-1761503188
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=eaVVVS6V0HJ3CnxOZ7t%2FA2o6pRp3zTdfVUS5t6D7mKaMljmeflLsSN5u2XWw%2B3kkoigwKzZqK9OjL6rG6vh4eCVcVidAxIvwjTuri9e%2F3NCaA59J4r7tLGlwrQIFQHUVccgbR4Wyp2AQWQ8M"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c00921d7ec910-KHI
+Content-Encoding: gzip

@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 19:07:37 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 420
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAZpqMb_ZCuO36Yk5IJ2W_vrl6KTfXwZAI_QXy-W6sm3o-P_3m7dGGBg3LyOPxeNhCmgTKWxz8A6cIszw7KeSHWyYlOWZM7SRskDNugscxd1Yh5F7ABgaIbeTBS4oIAzIMTWOgHf1oc7wCO1gBuCcXoBJYUEDzRcwElpFzQAr8ntZRvAkxW4aEZ4F-OfW8Fr2VGM6Cl2nXNCXVPODFNnVr2bXDpNgemzBtG9oF-XGUqUUtEtDuTIUsdJWoJBJOMoW_RhanxA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=23, db;dur=6, db_async;dur=1.732, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="bmfn", requestID;desc="ff381106-2a02-490b-892f-a084d65a96c2-1761505657", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_32fX0iHPQ6GRBE*1qJDzKw"
+Server-Timing: cfRequestDuration;dur=213.999987
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ff381106-2a02-490b-892f-a084d65a96c2-1761505657
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wOfmP%2F5xB3Ad%2F1Fg4vKfG7pCSl%2Ft3umsPWKo44v4c6MLNcT21keB3lKs5ip5OB0Ei4h%2FyP86UqBJi0MFC1ogA9FiVKgzPO0nipIrxqdF%2FKk20tRq5V7Gn74IJKRQ8CJ3LAxIlv2N7pO9A5Di"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c3cd82d2990a1-KHI

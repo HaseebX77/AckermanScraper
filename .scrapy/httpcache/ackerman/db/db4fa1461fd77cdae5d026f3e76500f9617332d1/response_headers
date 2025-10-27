@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 19:01:33 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 480
+Set-Cookie: _shopify_essential=:AZohs9PYAAEA2aLOo8NxToEQCH004YxAQwJgB-dHtNKOmwvankVuTxfSj1PVkKIA01mqUZqpkaoEzGMNZ2p3qlwC3wDhpb0wXX8BegfSJCRJjMUL9ja9Yd6Z5B-F51_bzOlf9X2DEtZ15Z5ylXCx8Vnltxf6p1uncC84TRw1nfioqk_qXCSuUScuTNx1__Urzjx4QccId8C8AOyoSMlr7Pe5Zcwu5D3hEz4ry7dIT44djce5vh_rveqDyTdu3AMwz34omMt3ENDG2IM1Sw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=27;desc="gc:1", db;dur=7, db_async;dur=1.363, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="b2x8", requestID;desc="e21d2bf8-3379-4aeb-adfa-c67f1cfc5fbf-1761505293", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_sq9ZC3gRQq2ZEZSpr6z1KA"
+Server-Timing: cfRequestDuration;dur=202.000141
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e21d2bf8-3379-4aeb-adfa-c67f1cfc5fbf-1761505293
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=BjBYXT3VHeNfLDUtiqY2HM5RtqxdKdBYWmSXzaa60bjZkvEpnYFbn%2F5w9OYJUdyUo3arPdj3GZqUw2lnHzrWFttI7mK2zse2BEnQZ7O%2BhcrIrBtjT8gGuGyiOerRY%2B2WKL64dj6lWF5hzuMk"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c33f52ba0c919-KHI

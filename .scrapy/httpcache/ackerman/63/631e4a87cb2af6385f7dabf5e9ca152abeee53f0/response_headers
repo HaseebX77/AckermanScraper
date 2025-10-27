@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 18:52:24 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 520
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAGypjagv48J1hxd4F-IDV7HNRplAtbelaeoj2blep_MojazC25JWt0Zt1-Ftb2_d8dYM49p5fE952_uVvMhk2oFbj8hx4rA2cWXsGQoRuvzHzOu4AdRSUh2JICYwHImy9bmTOPFP3u51CSwcsW_-tHZZ0YUwmQ3d5jo93LV2SZ2HJe6CJoMIrn0gpxgh99xbQn4oXsMU1fdrOoKu6jwRsX8JbOyOJ-TA63T_Qd6pBLLXqtiQpToMqRhxiFuiBWBVaPz5DVw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=30;desc="gc:2", db;dur=7, db_async;dur=1.261, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="pdj5", requestID;desc="c77c8879-342a-4e6e-af52-78b407a89bba-1761504744", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_hSIgYPGCRhiR9miIgKjqSw"
+Server-Timing: cfRequestDuration;dur=203.000069
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c77c8879-342a-4e6e-af52-78b407a89bba-1761504744
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=2FYaPN6dWdbmkKiKKNbIsNS6OqbOeDqzRa%2F34M7CpnUSFerH7xtwzDDinBx3MlRxlu5ot48EQfJhYClGX%2BRzxsxBqWUD2xmvTtGfoIwLMQNvLzMdtip2ZrLwXV9CZjoGMhXsi%2FdK0H4PKsht"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c268b69c6c976-KHI

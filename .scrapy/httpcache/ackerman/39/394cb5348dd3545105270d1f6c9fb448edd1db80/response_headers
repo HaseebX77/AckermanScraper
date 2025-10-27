@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 18:26:01 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 440
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAcoVueQdr_0bXzb8nNg5-KKZQIz1PfjqBpztbtyDz5-yyYgOeZm_WuE8U_6s1xvjjun2ZY4LrTHTeTyPPHo2SLnzymKj97eIxFbI4d886Y29YwP2Q5ORNBURnoTHNW5XBrAcJTUcoMj4ocJ4SguiIj-dAi0SoH4y9nqvWxv3o83c4LmN94ALwfFMqPdjckevOzhlLn-qvuZDiQx1hNLa2csTCGHlE9PFlSEaUrOMvRANlWnIZjE9SdmT6E8NhhDk0hB2-Wg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=25;desc="gc:1", db;dur=5, db_async;dur=1.313, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="89fn", requestID;desc="89536f58-28f5-41ce-af87-d1f5707c100f-1761503161", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_Fphv32leQZeN1zxTnGEpWg"
+Server-Timing: cfRequestDuration;dur=233.000040
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 89536f58-28f5-41ce-af87-d1f5707c100f-1761503161
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=eA6nMoTh%2FPfEaI2P2hMWghBteBmGt66UUO3vMlhhMR857Wz4I7%2FT%2F0xR0Sjnp%2Fxu%2FVLyuXWHQWthIfSuoM%2FaYlFoSTEEV3MRskrKfn9w9JfiBwc%2BF8xVOu1gTqYNTTKlXTzND7Z2mXEZN4R6"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994bffe65f15c910-KHI

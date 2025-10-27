@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:38:19 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:4957e5c1c929bc501416297f1e919f0a"
+Shopify-Complexity-Score: 370
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAvUl5knGcUeWYofLUZjXL3avyACJBKbX0WzoAagtJbIZM-Y6ZBixbp2Q7-sF6_qZijPZq3VorOw1zJPx_L0DCatkd5jg0iOYwjBdC6gOFvpcoz1Tzww3bMVdEFjU14w_BKW0ZKNo6DsN2Dvnxcw79KD74yIMDawQ_oal1PDds8a2W8QxUj_5zExFtWNj4tAiqjYjwiJdVF1EuAkk4C5WqTKUVNNAUzUARZhAocL25Fo998-daswC6S3u61y0ffLjUqEi72Q:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=40;desc="gc:4", db;dur=15, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="h5gj", requestID;desc="806c8898-05bf-49f5-90ce-448e68ddedf9-1761503899", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_r*0B*kjkRZGM7cME2X2Fgw"
+Server-Timing: cfRequestDuration;dur=220.999956
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 806c8898-05bf-49f5-90ce-448e68ddedf9-1761503899
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=I8m82ceetDzsIvVC5dXgq3suY%2Bk8RkBOlNWLPo21O6ezB0MWodFHAmHzgb9XUlBv2dZQH9EEzU0ENIqSJbJc9ikBZDVZGTnH1TBFUsE78fP0X6WX96H4qyJ0nYOBPDRSsdD%2BM%2FrNprMNg5eX"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c11e8ecd4c976-KHI
+Content-Encoding: gzip

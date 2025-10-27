@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:07:43 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:8283fde9b2e13c69e20b288ff4c83851"
+Shopify-Complexity-Score: 340
+Set-Cookie: _shopify_essential=:AZohs9PYAAEApUT7l5CT0q8jGaszwGJnPzMdS-Y8cDt2o2cLqA6hbdO1LwpADMAh82I1GQGwDfimDZtYaGBU1Y-nS3iHsdz3Gaykw8hPHjB2ep-OtasBa9EWxyJXyVFdmnuBictPq66uzwRT0FfQbaYLswUkRvRadoymokXTKTpEURG-5exPZJQaDXw0GwWFznyWhh5el4ZsTJX8sLv6zsQOC3WvDmO0PRLtpeeDXojfAKcgzO-UDFhyp4MED0myimcfpGcfIqDrN_Vu_A:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=38;desc="gc:4", db;dur=14, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="zdcz", requestID;desc="d41c1281-b3d5-4941-ab75-3e641ea3470a-1761502063", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_t3JssbRkTO-m82cMbHBmPw"
+Server-Timing: cfRequestDuration;dur=219.000101
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d41c1281-b3d5-4941-ab75-3e641ea3470a-1761502063
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=8vMP%2BoEMYZIvrpcTccgZDY5kzAMjPmKvXHk6QgrIvYSIg6n90X9mSC0%2Bika1HTK4FARNxbbwtBPmF72HG93U%2BTZDlK1n5AOfL00bu05VehL6j3JPzFOXlkH3W%2BWfvtnM80GFdq8fYasJiPVw"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994be5193eacc972-KHI
+Content-Encoding: gzip

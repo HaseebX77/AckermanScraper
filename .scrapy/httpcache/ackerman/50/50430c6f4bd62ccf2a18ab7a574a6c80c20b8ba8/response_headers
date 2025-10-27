@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:21:07 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:f0411a5630a65072aa220c25c2170ce4"
+Shopify-Complexity-Score: 360
+Set-Cookie: _shopify_essential=:AZohs9PYAAEA3zQ7_KqjHBCRhdvWlJC_qazKy4TJdcmprcc8Fo-Htu3uuGvzI3aItZjAZ8srq8iXrGwPtF-1wb4drbsrCNpo3B_vtrjvxF_xGCmq8zBbD0G6MBY4tBwEjx2F3iveaKla3acs-aaHOkDNbv1judXg22ZHUUabC7f30oKgQWgzsj9JdUK-pB6wAh1Ikf4Sgw0k7pbw3rXHE_Ox5o-KHwaXihaoZKVI64R8rYaxsKs_CfzXEHBbh4zhw2hINdZCTR1PP15pOO4:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=40;desc="gc:4", db;dur=14, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="rm8n", requestID;desc="45cdf692-78eb-4aa3-b3c5-e8b152c04184-1761502867", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_GQZLNDtmTt-V9viIgL0dqQ"
+Server-Timing: cfRequestDuration;dur=226.999998
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 45cdf692-78eb-4aa3-b3c5-e8b152c04184-1761502867
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YlIOeMTjZgBLdIHxQLhKl4q3aF1mv4wvHreVlAKNegKJOwscuL2%2F1wfp6%2B6vXPTOVp41LJ0n64gksnVTwWwBOHWJN9KJijyI5RmgxFW7QUm5SGjeFsgMrLx4aOT1b8pDxCxCRRUNlLoYCGkF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994bf8b7d973c910-KHI
+Content-Encoding: gzip

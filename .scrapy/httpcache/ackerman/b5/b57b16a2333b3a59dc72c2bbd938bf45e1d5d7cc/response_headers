@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 18:42:27 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 500
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAqcYLWsvFfgp99MEahr0nWt1QdFNL29YS3D2Tdexf5ClO3PPUIcq7s5OezGhzb6k9c0QTXnNl1SCMxwwUn4mfdfDzf_2cbPImwAXA_t9a7JvBm_6kzwl8FhhFQAYQbo_6yA5KxDOo3O2nM5teDeryQDu47RbG2-PU2FZKLRIQvZH8_2FoEz7-F1F-oPc_6qHH5CYI3wg_BmhuTI79PEJPVWQzbvnorNBvDJ9Xl2NioG05b2_Okh0UZdeB9XW28zIC5-MhyQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=29;desc="gc:2", db;dur=7, db_async;dur=1.368, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="4dcg", requestID;desc="c38b6e77-a7ac-47b0-8126-a23295457094-1761504146", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_RrRdmlpnTG6meMSXGGBzlA"
+Server-Timing: cfRequestDuration;dur=218.999863
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c38b6e77-a7ac-47b0-8126-a23295457094-1761504146
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=mD1M0iPJWRAk0dTFszBDrqb9W9KFK5Exp1Ba9zsnp3LBKMtD4P8DeGec%2BnacIfxRsh103XaZPEvKluQQ555J0pVhrLAvGJ7kXS8OX5uHlqDO9w%2FtgbIvTTzPy0MnnCLQcAPHHgrMG340WlWa"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c17f5e81390a1-KHI

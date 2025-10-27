@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:07:24 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:50c9c1333ec374cb0199fc46db552dd9"
+Shopify-Complexity-Score: 250
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAjLYVlKqaQZ2bMMl2e3-tRW3piUZUP6-R9WEhZblVfIAwXHxOXZ2k4IXEbJRNJ3owJLrAHYFaJPrgvWIP-UwUDqtNJy1TZguQv8xuRKA41MvWCF4vbQXIJRNTf5QVPrhgttsPjsfoEbPDoh-dsGwpb2QaZndJ24TBxpXEIl_E67z937vqoQRkk0_2DZmLsxmuMIztQzEKGH6TW6iLASpCwYKO01A1LtWQI7JLfucCDWLlJKJhoYmlhWM7XqDbx7TmbUOEFA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=28;desc="gc:1", db;dur=9, db_async;dur=1.679, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="d6b9", requestID;desc="1214dfe9-d37b-4be1-a38e-df9352b12c80-1761502044", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_K*SFezzpTlWWuZUDMcGpLg"
+Server-Timing: cfRequestDuration;dur=197.999954
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1214dfe9-d37b-4be1-a38e-df9352b12c80-1761502044
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=p1u8sa8YC%2FUCZcvdDjQI8JKEoIohWY7Af%2BysSRRW9ZhhIK6pu5B%2FFboAJTbDrs0o5UfIuBMR81AGU2VPNwRW%2BSSxcum0s9DZLhMnPfXAIhM8jYKik7QdvDnm%2BYvalU7a7o3e8W7RpN%2Fzw4wR"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994be4a01802c910-KHI
+Content-Encoding: gzip

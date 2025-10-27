@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 19:11:46 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:a9b3fc1dca298f2a2417a420c175f408"
+Shopify-Complexity-Score: 300
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAlZpu0KOa2JXNeZoxIVUxCGkXAC-iKatdGxEebRsPhcugGEHSQrsr0TiafLkuV7VZ_l_8vjtr62dvTVBV5FUBji9OjxBuGyOW8k3Edr4sZc3RUFn4BODKYKkCQs1NarqhK2sdMJSDIN8QMI4dj7T_Lwb8rVQ5OpP21yy6peD6RgMl9za-5qyNrvxV386hXxsS1TuJida-LBQ6qnAU7CWcHa1IXLJ6Xn2h3yAs1OsvLtonQHs_-oIIdkjyYeCibiGQGekKyg:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=33;desc="gc:1", db;dur=12, db_async;dur=1.642, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="4dcg", requestID;desc="f36dc935-bf3f-4500-b0ab-a6dde6d52df6-1761505906", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_qhQxRI7-SIq9Z4PHLK7lRA"
+Server-Timing: cfRequestDuration;dur=220.999956
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f36dc935-bf3f-4500-b0ab-a6dde6d52df6-1761505906
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=2sz2GMMS8%2BqjrXbCLeSiVCfI8h7IQR7wtpNlMbbx55HCe93LtChjt9MmnTimtRloKMs2LgPWHidFRbguSUwBQhn%2Fy9XufnAJcl75Fy6p5JmgZNCQL3teE8ocT5e2Bd1QF5Zk6s2WrtpC8aHT"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c42e9eabd90ad-KHI
+Content-Encoding: gzip

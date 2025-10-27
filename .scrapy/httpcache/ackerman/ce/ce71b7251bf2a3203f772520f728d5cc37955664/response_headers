@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 19:03:07 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 520
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAoa3QkBLqqWVwINvRbuB4QhwUiAjMKb8J_06nRVQ58bBIwOihVghobtFYbu4VYXm7p-HlvyFccUun0htk4gkXVHQmN-o1DeHQumBL5qlP63OYwd4V4rtRiHy8ruPYdzpqTeHlnplfSXjXjy2a41_iy02AOTTQQrFVutgipHX00fH7W_asJbtNrHKqTXUQG6lpydAOjppEcToIaDSKXU9EpGItXqOAblnOZaafdtdH4stSoY5bMOayOEwJY010UCqEqex3Yw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=30;desc="gc:1", db;dur=7, db_async;dur=1.361, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="k5nn", requestID;desc="c6d07cf8-85db-4436-9863-4de4c854f840-1761505387", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_5bKLcI6NTHiWiq0a*4uhOQ"
+Server-Timing: cfRequestDuration;dur=240.000010
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c6d07cf8-85db-4436-9863-4de4c854f840-1761505387
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=n4yqQLZW9FnH9dZYBqi3%2F4DO6bcH63hR%2FPypFXQ%2Bw2QM4%2Bvz9fqxsNZ5iUTcYQYiVq15JsZOk1dADOdULuYSe29TG3fULtooe7bsVmhfAmx5OAWwO%2FUplyMOctZxMSL4%2Fzbjiq9nAnJPvrTi"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c363de8f890a1-KHI

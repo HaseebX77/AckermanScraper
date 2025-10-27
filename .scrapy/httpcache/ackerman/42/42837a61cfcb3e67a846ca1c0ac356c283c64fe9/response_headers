@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:19:10 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:30ea8d75d647dde050f8d8f0352e2deb"
+Shopify-Complexity-Score: 310
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAob7rAkaFzK17IPgbbAukpj23YaqU_8-u593vk6pB0JqPxwJ5hvCmk_Fm-QNEGvGj7wIvwPVmgxAlsKAlkLC6HKDDOWbN0oplDe_UyZDwwssygkJyBXuxO3X3wW5Tx3PRNKd9zqhjUTsKYBg50sgK5VN-1brxCdkWciL2ME7P4_t5i9Wn-95u5O-p9uRbhjmvvNvciSq0B4ZlLsHlac4YG76b3WiEwyZumHZRjO1tKQIgvI2lDfc13RIzwxgMIv4Nd1oaFA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Alt-Svc: h3=":443"; ma=86400
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=35, db;dur=15, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="6wz2", requestID;desc="d07c978a-309e-443a-ab00-c8fab359f1ce-1761502749", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_a0452OF5TNm92gy4dC7Ngg"
+Server-Timing: cfRequestDuration;dur=229.000092
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d07c978a-309e-443a-ab00-c8fab359f1ce-1761502749
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YHDyAQo55EqgQg81DYlRKLe5E2H2prRGsmXSEz71msH%2BF7jFRenNoYOQpNQehU9uiW%2BrWSkVIOOgSaNVuWgwck8mFmvFmxFO%2FtRah6%2Fy3dOhLq%2BvQxHkTVkmexJLHkMIKZDfwjDJRdem69bG"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994bf5da2d80c972-KHI
+Content-Encoding: gzip

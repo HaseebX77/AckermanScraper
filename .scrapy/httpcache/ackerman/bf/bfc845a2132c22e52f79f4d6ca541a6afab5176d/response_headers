@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 19:20:55 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 440
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAqcTw3JvbKaIONJ7zVFU4cg3HPHM0-GQDeTkdhs86gnrBv6WndZ8bpNzuuykmTJPJgJZlEsLecSXkkRegwT3T8fpjPcXAw1F7RayS0vOEWJBToe-9c9caVy0Hf_lk_0tn4oSc2kd0tQqJtug5WVWDUiqvWys3WpWnIf2ZlGncoOCgKAk6gbAt3ElrODN5vw46Q_SJOY-MQo2caOaL-MfV2qMOJ6kXIpyPfoM6BJvDiYbCNZvrw4ryGxaP6vlFw-teUOc65A:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=26, db;dur=6, db_async;dur=1.394, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="vwlf", requestID;desc="f55cc61d-e5ad-4ee7-b32c-da371b5ed90e-1761506455", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_h6RX7GzjQjy9DtkJ8sQ3MQ"
+Server-Timing: cfRequestDuration;dur=193.000317
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f55cc61d-e5ad-4ee7-b32c-da371b5ed90e-1761506455
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=NIu2%2Bx3q2TkSAGlaQ%2FKS5iGHSMj2i2SgRcdBCdNeL%2FLttvwnqjTaXe9oml%2FBvCK5ddxt3WAb07zsn76Mww6pWBtM3%2FoDHLDfgzfc0pNs5HCs7zbWr7w%2FsDm%2FtkU0jiH%2FcGbJIt%2BTkNfF7SBI"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c5050295e90aa-KHI

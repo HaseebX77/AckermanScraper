@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Scrapy cache and logs
+.scrapy/
+*.log
+
+# Output files
+*.csv
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

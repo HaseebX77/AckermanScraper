@@ -1,0 +1,32 @@
+Content-Length: 0
+Date: Sun, 26 Oct 2025 18:07:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.ackermans.co.za/robots.txt
+X-Redirect-Reason: primary_domain_redirection
+Shopify-Complexity-Score: 290
+Set-Cookie: _shopify_essential=:AZohs9PYAAEA7a8BOWOvTdUSJsomkYcHpInRcTj-xKnmZeOq6VN-rVvWeSo_vZAI8ufKw1kB9WAdiQBXVXOgtM8cKVwf5DFLeIwbI2VMl3_mkQb8KPCzI4mzpNj8Yu1HAvvirtX-MDvayjapNgdlWjMnr9ihdisznbCdJEpVdDl924k5liIcriF3TNaUX1gdIg0-eQEduW0uy3GE5_RGbV4UkOFWCZognPPGosa5X7P4KNbnAqJywpOluC3avdfRZ6Iin3Ifxmz4RULSyUGfEip1nYKYgKc8OB3kwt4GXQc8D1XqZ4NFyQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=38;desc="gc:4", db;dur=12, db_async;dur=1.238, asn;desc="132165", edge;desc="KHI", country;desc="PK", theme;desc="138055712940", pageType;desc="robots", servedBy;desc="zh4k", requestID;desc="abc7ab50-79dc-4038-8662-2d1baafe4d52-1761502024", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_g1rZOtkwQAOSIEhlJYM3UA"
+Server-Timing: cfRequestDuration;dur=226.999998
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: abc7ab50-79dc-4038-8662-2d1baafe4d52-1761502024
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=gMj6vFTrzTEJsfY%2BoU08zy5VSRV%2F%2FL64TRpQmEimNnxfW0Ej9EZak9Bsxb%2FA2v%2BtdAQ2CpK73X5mKCHJrzsUh6TkyQl3MiCTUx6Qq%2BhWoPUufMfPgx%2BTYgImhgrIfeaSNhLBNd16JDIBeSw1"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994be4257ccec910-KHI

@@ -1,0 +1,33 @@
+Date: Sun, 26 Oct 2025 18:10:40 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:881eb057ae4f75ab21c00da0b0d7f7d7"
+Shopify-Complexity-Score: 280
+Set-Cookie: _shopify_essential=:AZohs9PYAAEA1k0TMQCTeeWwNK2SwMUYnyeEsKio9V3J787AHW1x45T7VrYcITX1nLhd34oaN2QS_0mZaG81KhTNd9twDaMDgrLs2kAXOqBfjwzSmUZCdMI6Mioe12J1cX3oBok0KLEpZ_6L3mTWxHRHjxHiUwWX22sYwd4vfOZtRvWQUW0VIocfwgmcgPFXc10cMf9RzJNqq869rZgoHfgan68-P6TkbRZaUtu7jB0MepsM9GJm2sLwnnogcEFoV4e9Bb8PHqjepuIteA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=31, db;dur=12, db_async;dur=2.013, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="m75t", requestID;desc="584747d8-9954-4f99-9132-8e16ff8b7266-1761502240", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_wRpuTkOFR4uhc401CY0NKA"
+Server-Timing: cfRequestDuration;dur=202.000141
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 584747d8-9954-4f99-9132-8e16ff8b7266-1761502240
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=izuFxFhRILfwFC7H89eQmJ2xSdCwKDB5f0gKBNiZpsYlWbEU2RaTsrXlDXf%2F1uVpROWHNrfmlVYunjgR9tkBh31TH7Arh898ujFu%2FRzB7%2FapQe1cVCvES2yu8jkdKDnoXjTsRNNR%2FbbCJ0S%2F"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994be96a2f8ac972-KHI
+Content-Encoding: gzip

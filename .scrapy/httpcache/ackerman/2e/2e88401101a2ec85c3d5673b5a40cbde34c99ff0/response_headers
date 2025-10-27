@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 19:21:23 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 460
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAMBpM1t-B3LvJSQ4nzm6QHlqLG_AWA02tqZe5cfq9jM94kneUNyzYJzqiQjfeoWo7LGjweAcqVTVpBpaqyEt7WX5nDFsd6efO-J-7RFzcBKVoSr4_ehEr3ULO2EiGPJbkHbg4wmaua6BTNCZpoDIVKYb2KkHKEgHyrlDt6It7f3eAHwRyjmdnyZu65m9gMoKQlS2UIDMI6FoHEz4AE3xhLup5uT0U-7tnCxOvXOkVBWK5Ieh5T6DgztTyE_44bF5wYKiXRw:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=26;desc="gc:1", db;dur=7, db_async;dur=1.378, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="bl7c", requestID;desc="bc24b93f-895a-4772-a61c-607e9620b089-1761506483", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_x6Vr3i5TTDigWWml94PEyA"
+Server-Timing: cfRequestDuration;dur=204.999924
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bc24b93f-895a-4772-a61c-607e9620b089-1761506483
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=sQMTqwspwn7FxscGvTrDrWoxy126y%2FXrY%2BJErBXQFCoVU4o2lieqF5NhZfLcov%2FLKCq7pryWi7iBsWm2AxH5tZAbgumVNVRn7PKA%2B6XOjQwWawWPfdMcNEgTdl5oLnNiveekpT7ZimEOTq9D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c5102cec89098-KHI

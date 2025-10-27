@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 18:43:19 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 680
+Set-Cookie: _shopify_essential=:AZohs9PYAAEAJueXujsTaHlw6pwfumLEYcIO4yROkuIrlbRWDmsnUVNmtCl5LVUp_aLQrMnOt_ZPhLHg0ss7-AWI2CnEXNqdsQ-pBepUcIRDApzOvlEfZzdDGpwy9mJ1w37Gxe5sy05TZ-qtN1KsQvji0ehAkmKxWC_D7F2pdf2ghyrznoLZxyj6DaDd57CCO8B1mzhK66SmqWop6cprO_zD3r-cunpTf2cHwlEhcOuRy05S03knWQ4La5o5xI3gPrKu7b38jU8oCKfjrA:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=38;desc="gc:6", db;dur=7, db_async;dur=1.728, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="5lmb", requestID;desc="05d17367-3b53-4d26-9eaf-abcc796de68f-1761504199", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_-jDVhWQhRLmqmXhdWSJLuA"
+Server-Timing: cfRequestDuration;dur=229.000092
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 05d17367-3b53-4d26-9eaf-abcc796de68f-1761504199
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=DdVmw70HXCu9JhSl0c7gQ1b%2BrSo32hQfzVmYaefzX3FMDzBnZuO5KtKRSxKYCEOGvrgmcdCIQ2oCWTWPvebEiM8QmyugBCSk0G9a3L9Brc%2B5jSt7%2F53BWxeu2tHFT%2FuyRcTeCgAF2FaMzOGo"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c193bdd30c919-KHI

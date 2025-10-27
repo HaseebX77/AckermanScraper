@@ -1,0 +1,32 @@
+Date: Sun, 26 Oct 2025 19:08:05 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Etag: W/"cacheable:8c2159a3a1a3b70b7a9cfe9578e6ee59"
+Shopify-Complexity-Score: 290
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Vary: accept-encoding
+Content-Language: en-ZA
+Powered-By: Shopify
+Server-Timing: processing;dur=32, db;dur=12, db_async;dur=1.925, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="zdcz", requestID;desc="473339ff-823a-4571-ab61-be915e6f8a1c-1761505685", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_RXb4mTQeStGS1z7JAk7daQ"
+Server-Timing: cfRequestDuration;dur=246.999741
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 473339ff-823a-4571-ab61-be915e6f8a1c-1761505685
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FpkYG0sQzhlpwJ6dFQZHjrmkmVEJib1vKY5zUmeWTHCUI58Gx65KRFnzTzw2SX2R%2FFcYm4JE4Dl4dUVI9o7mqhdLWUI00rb5Fu5goWh1z%2BgUSnx3P5TsDb2WMYSyUjmZJXUoYQ0aOLhybv9A"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994c3d84ca70c919-KHI
+Content-Encoding: gzip

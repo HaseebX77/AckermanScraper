@@ -1,0 +1,31 @@
+Date: Sun, 26 Oct 2025 18:16:36 GMT
+Content-Type: application/json; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 65286340780
+X-Storefront-Renderer-Rendered: 1
+Shopify-Complexity-Score: 520
+Set-Cookie: _shopify_essential=:AZohs9PYAAEATpw8eWdulemA2V4ZA-tomnO-xWGSEX7-qW2ej_sP5ihbR5xpppEvJisoPn-_Pvepvu3Ylim1u4NZ_-rDK1KoiXnRaGevTzJWGFLXH_rSJgFmWGTyCcUGm50VtNnhK_a6MkiHu9yS2xqovfOiSJz06yYNHkZ2ywOv4gElu3mmIPWSjRjb2I__Nc0bfd_--x2W0T0W0PrPpXAdg9VZSRu5dg7jDc2D1Kz-ZhGekBwrJdnABxgRxcMddbivPlkoUOkkQcZ5IQ:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65286340780
+X-Shardid: 171
+Vary: Accept
+Content-Language: en-ZA
+Cache-Control: private, no-store
+Powered-By: Shopify
+Server-Timing: processing;dur=31;desc="gc:3", db;dur=6, db_async;dur=1.476, asn;desc="132165", edge;desc="KHI", country;desc="PK", servedBy;desc="4dcg", requestID;desc="774604a3-f0b4-41e7-8b9b-fdc755202a9b-1761502596", _y;desc="00000000-0000-0000-5000-000000000000", _s;desc="00000000-0000-0000-5000-000000000000", _cmp;desc="3.ampS_PKSD_t_f_CFFyjUPxRM-km8b06tER3A"
+Server-Timing: cfRequestDuration;dur=256.999969
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 774604a3-f0b4-41e7-8b9b-fdc755202a9b-1761502596
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Nv7JFhBdBCRSA%2BAjmH3N01UmjTFrolMdoFUiBfKWZUpNmWoInGyQBT55CRdMnyEc1SLpnyvA4cLLryem7tDaLxqj64OhWuvoPxIuraz%2Ba3EH13pJ1n9w8U25kXoZ%2FqBVVHVNM%2FKDFh7UuO9T"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 994bf21abe66c972-KHI
